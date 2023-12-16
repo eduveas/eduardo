@@ -1,0 +1,27 @@
+- What is evaluation, why do we evaluate. Evaluation as a means to improve something
+
+- Research methods:
+  Scientists begin with an observation in the real world that they want to understand, and this observation could be based on data (examples), or it could be anectdotal (examples). The data could be based on a single observation or on several.
+
+  From the observation, it is possible to generate one or more research questions.
+
+  Having a research question indicates that you are trying to come up with a theory, which is a well-established principle or set of principles to explain a broad range of observations.
+
+  We are usually interested in theories that apply very generally, for example to all entities or situations. An entire set of entities is called a poplulation. Different types of scientists focus on different populations (geneticists, psychologists and epidemiologists are interested in the population of humans).
+
+  You can use an existing theory to genearte a hupothesis, which is a prroposed explanation of the specific observation that interests you. A hypothesis can be tested by operationalizing it as a prediction about what will happen. A prediction should be a scientific statement, that can be verified using data, meaning that it can be split into things that can be measured (variables).
+
+  non-scientific statements cannot be tested empirically.
+
+
+  the next step is to collect data and test the prediction empirically.
+
+
+  The problem is that you want to draw conclusions about the whole population, but it is usually impossible or impractical to collect data from every entitiy in the entire population. So, instead we use a sample, which is a smaller set of entities from the population. We want the entities in the sample to be representative of the wider population (we can do that by selecting them randomly).
+
+  We use descriptive statistics to summarize and describe the sample with the data.
+  We use inferential statistics to make generalizations or to estimate the values of the population.
+
+
+  b
+  
